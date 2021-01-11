@@ -56,6 +56,8 @@ h1 {
   animation-duration: 2s;
 }
 
+/*
+//blue label */
 .cards__item__pic-wrap::after {
   content: attr(data-category);
   position: absolute;
